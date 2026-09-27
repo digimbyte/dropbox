@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="60mm"
+     height="80mm"
+     viewBox="0 0 60 80">
+  <!-- Panel outline: 60 mm wide x 80 mm tall -->
+  <rect x="0" y="0" width="60" height="80"
+        fill="none" stroke="black" stroke-width="0.1"/>
+
+  <!-- NEMA 17 mounting pattern centered at (30, 40) -->
+  <!-- 31 mm square bolt spacing -->
+  <!-- Mounting holes: 3.5 mm diameter -->
+  <!-- Center opening: 22 mm diameter -->
+
+  <circle cx="30" cy="40" r="11"
+          fill="none" stroke="black" stroke-width="0.1"/>
+
+  <circle cx="14.5" cy="24.5" r="1.75"
+          fill="none" stroke="black" stroke-width="0.1"/>
+  <circle cx="45.5" cy="24.5" r="1.75"
+          fill="none" stroke="black" stroke-width="0.1"/>
+  <circle cx="14.5" cy="55.5" r="1.75"
+          fill="none" stroke="black" stroke-width="0.1"/>
+  <circle cx="45.5" cy="55.5" r="1.75"
+          fill="none" stroke="black" stroke-width="0.1"/>
+</svg>
